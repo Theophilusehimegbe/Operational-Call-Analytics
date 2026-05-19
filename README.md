@@ -56,7 +56,7 @@ The dataset contains **5,000 records** capturing inbound call activity across Ja
 
 ### Data Model
 
-![Data Model](data_model.png)
+![Data Model](data_structure.png)
 
 | Field | Description |
 |---|---|
